@@ -2,5 +2,9 @@
 
 
 <div align=center>
-	<img src="https://github.com/myry07/2.8inch-video-player/blob/main/04.Fotos/pcb1.jpg" width="500" height="310">
+	<img src="https://github.com/myry07/1.69inch-mini-gps/blob/main/04.Fotos/1.jpg" width="225" height="300">
+</div>
+
+<div align=center>
+	<img src="https://github.com/myry07/1.69inch-mini-gps/blob/main/04.Fotos/2.jpg" width="225" height="300">
 </div>
